@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedrojose1999
 - 👀 I’m interested in ... Tecnology, Science and geopolitics
-- 🌱 I’m currently learning ... Java, JavaScript, HTML and CSS
+- 🌱 I’m currently learning ... JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
