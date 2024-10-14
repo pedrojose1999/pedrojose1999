@@ -1,7 +1,7 @@
 # Perfil e Apresentação
 
 Olá, me chamo Pedro e sou um estudante de tecnologia 
-que aprende tecnologias voltadas ao Front-End: HTML, CSS e Javascript. Tenho interesses em 
+que aprende Front-End: HTML, CSS e Javascript. Tenho interesses em 
 Tecnologia em geral, Ciência e Geopolítica
 
 # Contatos 
