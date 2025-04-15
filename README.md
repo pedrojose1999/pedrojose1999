@@ -1,10 +1,13 @@
-# Perfil e Apresentação
+# Hi, I'm Pedro José
 
-Olá, me chamo Pedro e sou um estudante de tecnologia 
-que aprende Front-End: HTML, CSS e Javascript. Tenho interesses em 
-Tecnologia em geral, Ciência e Geopolítica
+I'm student of Analysis and Development of Systems(ADS) at University of Fortaleza
 
-# Contatos 
+# Technologies
+- HTML
+- CSS
+- Javascript
+
+# Contacts
 - Linkedln: https://www.linkedin.com/in/pedro-jos%C3%A9-438a45201/
 - Instagram: pd420000
 - E-mail: pd420000@gmail.com
