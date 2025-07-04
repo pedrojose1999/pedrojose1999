@@ -1,6 +1,6 @@
 # Hi, I'm Pedro José
 
-I'm student of Analysis and Development of Systems(ADS) at University of Fortaleza
+I'm graduated at Analysis and Development of Systems(ADS) at University of Fortaleza
 
 # Technologies
 - HTML
